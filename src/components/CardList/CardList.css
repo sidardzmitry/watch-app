@@ -1,0 +1,20 @@
+.card__list {
+  margin-top: 34px;
+}
+.box__btn__card__list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 81px;
+}
+.btn__card__list {
+  border-radius: 4px;
+  background-color: #000000;
+  padding: 8px 35px;
+  color: #ffffff;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+}

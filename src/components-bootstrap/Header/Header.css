@@ -1,0 +1,15 @@
+.header__container {
+  width: 1110px;
+  height: 87px;
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+.header__input{
+  width: 191px;
+  height: 40px;
+}

@@ -1,0 +1,35 @@
+.card__list {
+  margin-top: 53px;
+}
+.card__list__navbar {
+  padding: 0 24px;
+  border-bottom: 1px solid #000000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card__list__title {
+  font-family: Montserrat;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 39px;
+  letter-spacing: 0em;
+  color: #000000;
+}
+.card__list__bread {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+}
+.bread__text {
+  color: #000000;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  margin-left: 37px;
+}
+.this{
+  font-weight: 500;
+}

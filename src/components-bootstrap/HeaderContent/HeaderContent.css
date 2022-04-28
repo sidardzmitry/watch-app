@@ -1,0 +1,20 @@
+.header__content {
+  margin-top: 34px;
+  background-color: #F8F9FA;
+}
+.content h1 {
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 300;
+  line-height: 44px;
+  letter-spacing: 0.13em;
+  text-decoration: none;
+}
+.content__one h1 {
+    margin-top: 60px;
+    border-bottom: 1px solid #000;
+}
+.content__two h1 {
+    margin-top: 114px;
+    border-top: 1px solid #000;
+}

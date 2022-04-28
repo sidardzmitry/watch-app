@@ -1,0 +1,44 @@
+.card__item {
+  padding: 0 16px 21px 16px;
+  border: none;
+}
+.card__item:hover{
+    cursor: pointer;
+    border: 1px solid #a3a3a3;
+}
+.body__card__item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title__card__item {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0em;
+}
+.text__card__item {
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0em;
+}
+.btn__card__item {
+  border-radius: 4px;
+  border: 1px solid #a3a3a3;
+  background-color: #ffffff;
+  color: #000000;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  padding: 8px 20px 8px 58px;
+}
+.btn__card__item:hover {
+  cursor: pointer;
+  background-color: rgb(0, 0, 0);
+}

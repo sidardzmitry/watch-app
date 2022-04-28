@@ -1,0 +1,68 @@
+const sampleWatches = [
+  {
+    id: 1,
+    brand: "TISSOT",
+    collection: "T-Classic",
+    model: "T109.210.11.031.00",
+    image: "/images/watch1.jpg",
+    price: 279,
+  },
+  {
+    id: 2,
+    brand: "TITAN",
+    collection: "T-Start",
+    model: "1043SL01A",
+    image: "/images/watch2.jpg",
+    price: 550,
+  },
+  {
+    id: 3,
+    brand: "ANNE KLEIN",
+    collection: "AK-Classic",
+    model: "AK2130RGLP",
+    image: "/images/watch3.jpg",
+    price: 163,
+  },
+  {
+    id: 4,
+    brand: "ANNE KLEIN",
+    collection: "AK-Classic",
+    model: "3668BKGB",
+    image: "/images/watch4.jpg",
+    price: 143,
+  },
+  {
+    id: 5,
+    brand: "TOMMY HILFIGER",
+    collection: "TH-Best",
+    model: "TH1791347",
+    image: "/images/watch5.jpg",
+    price: 184,
+  },
+  {
+    id: 6,
+    brand: "TOMMY HILFIGER",
+    collection: "TH-Classic",
+    model: "TH1782430",
+    image: "/images/watch6.jpg",
+    price: 320,
+  },
+  {
+    id: 7,
+    brand: "ARMANI EXCHANGE",
+    collection: "AE-Sport",
+    model: "AX2171",
+    image: "/images/watch7.jpg",
+    price: 190,
+  },
+  {
+    id: 8,
+    brand: "TOMMY HILFIGER",
+    collection: "TH-Men",
+    model: "TH1791755W",
+    image: "/images/watch8.jpg",
+    price: 203,
+  },
+];
+
+export default sampleWatches;
